@@ -1,0 +1,1 @@
+Recordá que Mukinita entiende el comando `Mover`, pero vas a tener que decirle hacia dónde. Y a cada comando lo ejecuta solo una vez. Ah, ¿y dónde está el bloque `Norte`? Arrastrá el bloque `Este` y luego usá la flechita `▾`. 
