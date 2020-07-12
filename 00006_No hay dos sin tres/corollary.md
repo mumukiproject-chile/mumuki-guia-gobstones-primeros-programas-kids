@@ -1,0 +1,1 @@
+¡Muy bien! Recordá que Mukinita ejecuta el programa que armamos y hace lo que le pedimos. Pero para simplificar hablaremos simplemente de _armar un programa que haga determinada cosa_... Mukinita seguirá estando ahí para resolverlo. :wink:

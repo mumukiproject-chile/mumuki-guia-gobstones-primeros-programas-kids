@@ -1,0 +1,30 @@
+---
+name: Explorando el tablero
+locale: es
+type: learning
+beta: false
+teacher_info: "Esta lección es ideal para presentar la herramienta y sus particularidades.
+  En simultáneo podés trabajar de forma *desenchufada* actividades sobre la importancia
+  de dar instrucciones precisas y cómo el orden de las mismas impacta en el resultado
+  del programa. Para pensar:\n\n* ¿Cómo creo un programa?\n* ¿Cómo lo pongo en funcionamiento?\n*
+  ¿Para qué sirven los bloques?\n* ¿Hacen todos los mismo? \n* ¿Cuáles conocimos en
+  esta lección? \n* ¿Qué pasa si les cambio el orden dentro de mi programa?"
+language: gobstones
+id_format: "%05d"
+order:
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+private: false
