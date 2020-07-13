@@ -4,3 +4,7 @@ files:
       - '**/final_state.md'
       - '**/initial_state.md'
     translation: /%locale%/%original_path%/%original_file_name%
+  - source: '**/*.yml'
+    ignore:
+      - '**/test.yml'
+    translation: /%locale%/%original_path%/%original_file_name%
