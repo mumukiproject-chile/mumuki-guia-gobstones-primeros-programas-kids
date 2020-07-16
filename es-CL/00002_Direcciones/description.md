@@ -2,4 +2,4 @@
 
 ¡Veamos otra forma de movernos por el tablero! :eyes:
 
-> Apretá _play_ de nuevo para ver qué sucede con la luz amarilla en el tablero inicial. ¿Hay algún cambio en la forma de movernos? :wink: 
+> Aprieta _play_ de nuevo para ver qué sucede con la luz amarilla en el tablero inicial. ¿Hay algún cambio en la forma de movernos? :wink: 
