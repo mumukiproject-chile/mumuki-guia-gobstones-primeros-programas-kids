@@ -5,4 +5,4 @@
 ¿Y cómo hacemos para decirle a Mukinita que ponga bolitas? ¡Fácil! Con el comando `Poner`. :stuck_out_tongue_closed_eyes:
 
 
-> ¿Y dónde pone Mukinita las bolitas? ¡Descubrilo! Mirá lo que pasa al ejecutar este programa.
+> ¿Y dónde pone Mukinita las bolitas? ¡Descúbrelo! Mira lo que pasa al ejecutar este programa.
