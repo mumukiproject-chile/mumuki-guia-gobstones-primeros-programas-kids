@@ -1,1 +1,1 @@
-¡Excelente! Recordá que podríamos haber puesto primero las tres bolitas `rojas`, luego la `verde` y por último la `negra`, y el resultado habría sido el mismo. :stuck_out_tongue_winking_eye: 
+¡Excelente! Recuerda que podríamos haber puesto primero las tres bolitas `rojas`, luego la `verde` y por último la `negra`, y el resultado habría sido el mismo. :stuck_out_tongue_winking_eye: 

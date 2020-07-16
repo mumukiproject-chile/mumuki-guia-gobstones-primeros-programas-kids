@@ -1,1 +1,0 @@
-Antes de sacar la bolita, vamos a tener que movernos hacia el `Sur`.

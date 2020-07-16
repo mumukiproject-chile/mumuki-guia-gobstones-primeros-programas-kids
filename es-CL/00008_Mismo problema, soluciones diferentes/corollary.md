@@ -1,1 +1,0 @@
-¡Perfecto! :tada: Hiciste un `programa` que llega al mismo resultado final ejecutando los comandos en otro orden. :smile:  
