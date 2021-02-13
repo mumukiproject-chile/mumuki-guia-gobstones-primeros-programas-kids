@@ -1,0 +1,1 @@
+`Mover` está dentro de `Comandos` y `Este` dentro de `Valores`. Fíjate también que cada bloque tiene un texto que nos dice qué hacer, lo que nos ayudará a entender cómo usarlo.

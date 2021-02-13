@@ -1,0 +1,1 @@
+¡Cuidado! Esta vez empezamos en un casillero al norte. Lo importante es llegar a destino.
